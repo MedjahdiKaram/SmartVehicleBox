@@ -1,0 +1,12 @@
+SVBClient.ConfigActivity, SVBClient;md53bf9181eb6d58971d9d06057aab51e2b.ConfigActivity
+SVBClient.ConfigActivity, SVBClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53bf9181eb6d58971d9d06057aab51e2b.ConfigActivity
+SVBClient.ConfigActivity;md53bf9181eb6d58971d9d06057aab51e2b.ConfigActivity
+svbclient.ConfigActivity;md53bf9181eb6d58971d9d06057aab51e2b.ConfigActivity
+SVBClient.MainActivity, SVBClient;md53bf9181eb6d58971d9d06057aab51e2b.MainActivity
+SVBClient.MainActivity, SVBClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53bf9181eb6d58971d9d06057aab51e2b.MainActivity
+SVBClient.MainActivity;md53bf9181eb6d58971d9d06057aab51e2b.MainActivity
+svbclient.MainActivity;md53bf9181eb6d58971d9d06057aab51e2b.MainActivity
+SVBClient.StopActivity, SVBClient;md53bf9181eb6d58971d9d06057aab51e2b.StopActivity
+SVBClient.StopActivity, SVBClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53bf9181eb6d58971d9d06057aab51e2b.StopActivity
+SVBClient.StopActivity;md53bf9181eb6d58971d9d06057aab51e2b.StopActivity
+svbclient.StopActivity;md53bf9181eb6d58971d9d06057aab51e2b.StopActivity

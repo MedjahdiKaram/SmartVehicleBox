@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="ConfigSvb">Configuration de la SVB</string>
+    <string name="SVBWelcome">Accueil - S.V.B</string>
+    <string name="StopTitle">Arrêter le moteur</string>
+    <string name="Config">Configuration</string>
+    <string name="Command">Commande</string>
+    <string name="Send">Envoyer</string>
+    <string name="PhoneCar">Numéro du véhicule:</string>
+    <string name="Phone1">SOS Mobile 1:</string>
+    <string name="Phone2">SOS Mobile 2:</string>
+    <string name="Password">Mot de passe:</string>
+    <string name="PasswordV">Mot de passe (Véhicule)</string>
+    <string name="ApplicationName">SVB Client</string>
+</resources>

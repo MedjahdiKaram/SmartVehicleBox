@@ -1,0 +1,16 @@
+SVBServer.MainActivity, SVBServer;md5ef86e5ffab41364047d0a0b9d918eaa4.MainActivity
+SVBServer.MainActivity, SVBServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ef86e5ffab41364047d0a0b9d918eaa4.MainActivity
+SVBServer.MainActivity;md5ef86e5ffab41364047d0a0b9d918eaa4.MainActivity
+svbserver.MainActivity;md5ef86e5ffab41364047d0a0b9d918eaa4.MainActivity
+SVBServer.Sms.SMSDeliveredReceiver, SVBServer;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSDeliveredReceiver
+SVBServer.Sms.SMSDeliveredReceiver, SVBServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSDeliveredReceiver
+SVBServer.Sms.SMSDeliveredReceiver;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSDeliveredReceiver
+svbserver.sms.SMSDeliveredReceiver;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSDeliveredReceiver
+SVBServer.Sms.SMSSentReceiver, SVBServer;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSSentReceiver
+SVBServer.Sms.SMSSentReceiver, SVBServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSSentReceiver
+SVBServer.Sms.SMSSentReceiver;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSSentReceiver
+svbserver.sms.SMSSentReceiver;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SMSSentReceiver
+SVBServer.Sms.SmsReceiver, SVBServer;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SmsReceiver
+SVBServer.Sms.SmsReceiver, SVBServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SmsReceiver
+SVBServer.Sms.SmsReceiver;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SmsReceiver
+svbserver.sms.SmsReceiver;md5e5b9f9ca9275d2df6b276afcfd1c6a59.SmsReceiver
